@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Latihan Slicing UI Flutter with Pak Bahri
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
